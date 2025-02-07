@@ -1,6 +1,9 @@
 {
   "steps": [
     {
+      "description": "Helper function for string manipulation. \n\nThis function is used to capitalize the first letter of a string."
+    },
+    {
       "file": "lua/codetour/init.lua",
       "line": 10,
       "description": "This function initializes the app."
@@ -8,7 +11,14 @@
     {
       "file": "lua/codetour/init.lua",
       "line": 5,
-      "description": "Helper function for string manipulation."
+      "description": "Helper function for string manipulation. \n\nThis function is used to capitalize the first letter of a string."
+    },
+    {
+      "file": "lua/codetour/init.lua",
+      "description": "Helper function for string manipulation. \n\nThis function is used to capitalize the first letter of a string."
+    },
+    {
+      "description": "Helper function for string manipulation. \n\nThis function is used to capitalize the first letter of a string."
     }
   ]
 }
