@@ -1,0 +1,14 @@
+{
+  "steps": [
+    {
+      "file": "lua/codetour/init.lua",
+      "line": 10,
+      "description": "This function initializes the app."
+    },
+    {
+      "file": "lua/codetour/init.lua",
+      "line": 5,
+      "description": "Helper function for string manipulation."
+    }
+  ]
+}
